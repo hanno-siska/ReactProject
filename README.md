@@ -24,10 +24,10 @@ App
     ├── Hero
     ├── Pillboxes
     └── Cards
-1.Millist lahendust on kõige lihtsam mõista? nr.3/2
-2.Kui lihtne on muuta ainult koolituste kuvamise osa? Lihtne, rakendus on olematu
+1.Millist lahendust on kõige lihtsam mõista? Kõiki.
+2.Kui lihtne on muuta ainult koolituste kuvamise osa? Oleneb mida muuta.
 3.Millises lahenduses tekib kõige tõenäolisemalt korduv kood? nr.1
-4.Milliseid komponente saaks kasutada ka rakenduse teistes osades? header, footer.
+4.Milliseid komponente saaks kasutada ka rakenduse teistes osades? header, footer, boxcardcollection.
 5.Mis probleemid võivad tekkida liiga paljude väikeste komponentide kasutamisel? kohutavalt kaustasid ja faile.
 6.Millise lahenduse valiksid edasiseks arendamiseks ja miks? nr3/2 hübriid.
 
