@@ -1,0 +1,51 @@
+/* PillBoxes */
+.pillbox {
+    border-radius: 0.75rem;
+    padding: 0.25rem;
+    border: 0.1rem solid black;
+}
+
+.pillbox-collection {
+    display: grid;
+    gap: 0.25rem;
+    grid-auto-rows: auto;
+    grid-template-columns: repeat(auto-fit, minmax(0, max-content));
+}
+
+/* Navigation Styles */
+.navheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: beige;
+}
+
+.navheader-links {
+    align-items: center;
+    text-decoration: none;
+    display: flex;
+    gap: 0.25rem;
+}
+
+.navfooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Card Styles */
+.boxcard {
+    min-height: 0;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    border: 0.1rem solid black;
+    height: fit-content;
+}
+
+.boxcard-collection {
+    display: grid;
+    gap: 0.25rem;
+    grid-auto-rows: auto;
+    align-content: start;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
